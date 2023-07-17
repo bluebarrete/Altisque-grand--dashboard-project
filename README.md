@@ -1,4 +1,4 @@
-# Altisque-Grande -Dashborad
+# Altisque-Grand -Dashborad
 Atlisque Grande is a hardware manufacturing company that supplies hardware peripherals to different clients such as surge stores, Nomad strores, Excel strores etc. 
 
 The sales for this company is seeing an overall decline and the sales director (Ishwaq Fernandez) wants to get a gauge of what areas are responsible for this de-escalation. 
