@@ -18,4 +18,4 @@ He needs simple questions to be answered in a straightforward and a visually exp
 
 The project is divided in the a few phases:
 #### Project planning <Setting up database< connecting to tableau < ETL < Design < Feedback
-<img width="997" alt="Screenshot 2023-07-17 at 4 30 16 PM" src="https://github.com/bluebarrete/Altisque-grand--dashboard-project/assets/42550664/3f33952d-835c-41d2-9046-705df4fa4b93">
+<img width="990" alt="Screenshot 2023-07-17 at 5 00 18 PM" src="https://github.com/bluebarrete/Altisque-grand--dashboard-project/assets/42550664/6cabeffb-20df-47aa-b79c-c65a80ece930">
